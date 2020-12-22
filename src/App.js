@@ -5,6 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <ContentComponents />
        <img  src={ReactImage} alt="my-profile-image"/>
     </div>
   );
