@@ -7,6 +7,7 @@ function App() {
     <div className="App">
        <h1>My React App!</h1>
        <h2>Author: Walley</h2>
+       <p>You can upload your apps on github wow!! nice</p>
        <img src={ReactImage} alt="my-profile-image"/>
     </div>
   );
