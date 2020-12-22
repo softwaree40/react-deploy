@@ -1,5 +1,6 @@
 import React from "react"
 import ReactImage from "./img/logo.svg"
+import ContentComponents from "./components/ContentComponent"
 import './App.css';
 
 function App() {
